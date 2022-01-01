@@ -40,7 +40,7 @@ const ContactForm = () => {
       updateContact(contact);
     }
 
-    addContact(contact);
+    // addContact(contact);
     setContact({
       name: "",
       email: "",
